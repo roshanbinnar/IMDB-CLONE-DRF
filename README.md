@@ -18,12 +18,12 @@ Key Features & Responsibilities:
     o	Stream Platform Management: Added and managed streaming services (e.g., Netflix, Hotstar).
     o	Watchlist Management: Implemented CRUD operations for movies and shows, linked to streaming platforms.
     
-    o	Review & Rating System:
+*    Review & Rating System
         
-        o	Enabled authenticated users to post, update, or delete reviews and ratings.
-        o	Prevented multiple reviews per user per movie.
-        o	Automatically calculated and updated average movie ratings.
-        o	Custom Permissions: Applied custom permissions to restrict edit/delete rights to review owners only.
+    o	Enabled authenticated users to post, update, or delete reviews and ratings.
+    o	Prevented multiple reviews per user per movie.
+    o	Automatically calculated and updated average movie ratings.
+    o	Custom Permissions: Applied custom permissions to restrict edit/delete rights to review owners only.
         
 •	Core Functionalities:
 
